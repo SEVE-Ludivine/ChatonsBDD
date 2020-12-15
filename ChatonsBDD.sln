@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatonsBDD.ORM", "ChatonsBDD.ORM\ChatonsBDD.ORM.csproj", "{064D6519-5616-4CF5-844B-BC38AE02CC7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatonsBDD.Web", "ChatonsBDD.Web\ChatonsBDD.Web.csproj", "{AAF35EA6-5EB7-48E1-AB8A-C2557742C1FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{064D6519-5616-4CF5-844B-BC38AE02CC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{064D6519-5616-4CF5-844B-BC38AE02CC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{064D6519-5616-4CF5-844B-BC38AE02CC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{064D6519-5616-4CF5-844B-BC38AE02CC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF35EA6-5EB7-48E1-AB8A-C2557742C1FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF35EA6-5EB7-48E1-AB8A-C2557742C1FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF35EA6-5EB7-48E1-AB8A-C2557742C1FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF35EA6-5EB7-48E1-AB8A-C2557742C1FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBEA8D20-8688-4DE2-9AC5-8E0D79724227}
+	EndGlobalSection
+EndGlobal
